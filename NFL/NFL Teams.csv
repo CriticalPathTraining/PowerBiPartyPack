@@ -1,33 +1,33 @@
 Team,Division,Conference,City
-Bills,AFC-East,AFC,
-Dolphins,AFC-East,AFC,
-Jets,AFC-East,AFC,
-Patriots,AFC-East,AFC,
-Bengals,AFC-North,AFC,
-Browns,AFC-North,AFC,
-Ravens,AFC-North,AFC,
-Steelers,AFC-North,AFC,
-Colts,AFC-South,AFC,
-Jaguars,AFC-South,AFC,
-Texans,AFC-South,AFC,
-Titans,AFC-South,AFC,
-Broncos,AFC-West,AFC,
-Chargers,AFC-West,AFC,
-Chiefs,AFC-West,AFC,
-Raiders,AFC-West,AFC,
-Eagles,NFC-East,NFC,
-Giants,NFC-East,NFC,
-Redskins,NFC-East,NFC,
-Cowboys,NFC-East,NFC,
-Bears,NFC-North,NFC,
-Lions,NFC-North,NFC,
-Packers,NFC-North,NFC,
-Vikings,NFC-North,NFC,
-Buccaneers,NFC-South,NFC,
-Falcons,NFC-South,NFC,
-Panthers,NFC-South,NFC,
-Saints,NFC-South,NFC,
-49ers,NFC-West,NFC,
-Cardinals,NFC-West,NFC,
-Rams,NFC-West,NFC,
-Seahawks,NFC-West,NFC,
+Bills,AFC-East,AFC,"Buffalo, NY"
+Dolphins,AFC-East,AFC,"Miami, FL"
+Jets,AFC-East,AFC,"East Rutherford, NJ"
+Patriots,AFC-East,AFC,"Foxboro, MA"
+Bengals,AFC-North,AFC,"Cincinnati, OH"
+Browns,AFC-North,AFC,"Cleveland, OH"
+Ravens,AFC-North,AFC,"Baltimore, MD"
+Steelers,AFC-North,AFC,"Pittsburg, PA"
+Colts,AFC-South,AFC,"Indianapolis, IN"
+Jaguars,AFC-South,AFC,"Jacksonville, FK"
+Texans,AFC-South,AFC,"Houston, TX"
+Titans,AFC-South,AFC,"Nashville, TN"
+Broncos,AFC-West,AFC,"Denver, CO"
+Chargers,AFC-West,AFC,"San Diego, CA"
+Chiefs,AFC-West,AFC,"Kansas City, MO"
+Raiders,AFC-West,AFC,"Oakland, CA"
+Eagles,NFC-East,NFC,"Philadelphia, PA"
+Giants,NFC-East,NFC,"East Rutherford, NJ"
+Redskins,NFC-East,NFC,"Washington, DC"
+Cowboys,NFC-East,NFC,"Dallas, TX"
+Bears,NFC-North,NFC,"Chicago, IL"
+Lions,NFC-North,NFC,"Detroit, MI"
+Packers,NFC-North,NFC,"Green Bay, WI"
+Vikings,NFC-North,NFC,"Minneapolis , MN"
+Buccaneers,NFC-South,NFC,"Tampa, FL"
+Falcons,NFC-South,NFC,"Atlanta, GA"
+Panthers,NFC-South,NFC,"Charlotte, NC"
+Saints,NFC-South,NFC,"New Orleans, LA"
+49ers,NFC-West,NFC,"San Francisco, CA"
+Cardinals,NFC-West,NFC,"Glendale, AZ"
+Rams,NFC-West,NFC,"St. Louis, MO"
+Seahawks,NFC-West,NFC,"Seattle, WA"

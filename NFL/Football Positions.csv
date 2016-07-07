@@ -7,47 +7,47 @@ H-B,Halfback,Backs and Receivers,Offense
 QB,Quarterback,Backs and Receivers,Offense
 RB,Running Back,Backs and Receivers,Offense
 RB/RS,Running Back,Backs and Receivers,Offense
-RB/WR,Running Back / Wide Receiver,Backs and Receivers,Offense
+RB/WR,Running Back,Backs and Receivers,Offense
 TE,Tight End,Backs and Receivers,Offense
-TE/FB,Tight End/Fullback,Backs and Receivers,Offense
-TE/LS,Tight End/Left Safety,Backs and Receivers,Offense
-TE/WR,Tight End/Wide Receiver,Backs and Receivers,Offense
+TE/FB,Tight End,Backs and Receivers,Offense
+TE/LS,Tight End,Backs and Receivers,Offense
+TE/WR,Tight End,Backs and Receivers,Offense
 WR,Wide Receiver,Backs and Receivers,Offense
-WR/KR,Wide Receiver/Kick Returner,Backs and Receivers,Offense
-WR/RS,Wide Receiver/Right Safety,Backs and Receivers,Offense
+WR/KR,Wide Receiver,Backs and Receivers,Offense
+WR/RS,Wide Receiver,Backs and Receivers,Offense
 C,Center,Offensive Line,Offense
-C/G,Guard/Center,Offensive Line,Offense
-C-G,Center/Guard,Offensive Line,Offense
-G,Offensive Guard,Offensive Line,Offense
-G / T,Guard/Tackle,Offensive Line,Offense
-G/C,Guard/Center,Offensive Line,Offense
-G/T,Guard/Tackle,Offensive Line,Offense
-G-T,Guard/Tackle,Offensive Line,Offense
-OG,Offensive Guard,Offensive Line,Offense
+C/G,Center,Offensive Line,Offense
+C-G,Center,Offensive Line,Offense
+G,Guard,Offensive Line,Offense
+G / T,Guard,Offensive Line,Offense
+G/C,Guard,Offensive Line,Offense
+G/T,Guard,Offensive Line,Offense
+G-T,Guard,Offensive Line,Offense
+OG,Guard,Offensive Line,Offense
 OL,Offensive Lineman,Offensive Line,Offense
 OT,Offensive Tackle,Offensive Line,Offense
 T,Offensive Tackle,Offensive Line,Offense
-T/G,Tackle/Guard,Offensive Line,Offense
+T/G,Offensive Tackle,Offensive Line,Offense
 H,Holder,Special Teams,Offense
 K,Kicker,Special Teams,Offense
 LS,Long Snapper,Special Teams,Offense
 P,Punter,Special Teams,Offense
 CB,Cornerback,Defensive Backs,Defense
 DB,Defensive Back,Defensive Backs,Defense
-DB/RS,Defensive Backs/Right Safety,Defensive Backs,Defense
-FS,Free Safety,Defensive Backs,Defense
+DB/RS,Defensive Back,Defensive Backs,Defense
+FS,Safety,Defensive Backs,Defense
 S,Safety,Defensive Backs,Defense
-SS,Strong Safety,Defensive Backs,Defense
+SS,Safety,Defensive Backs,Defense
 DE,Defensive End,Defensive Line,Defense
 DL,Defensive Lineman,Defensive Line,Defense
 DT,Defensive Tackle,Defensive Line,Defense
 NT,Nose Tackle,Defensive Line,Defense
 ILB,Inside Lineback,Linebackers,Defense
 LB,Linebacker,Linebackers,Defense
-LB/DE,Linebacker/Defensive End,Linebackers,Defense
-LB/S,Linebacker/Safety,Linebackers,Defense
-MLB,Middle Linebacker,Linebackers,Defense
-OLB,Outside Linebacker,Linebackers,Defense
-WLB,Weak-side Linebacker,Linebackers,Defense
+LB/DE,Linebacker,Linebackers,Defense
+LB/S,Linebacker,Linebackers,Defense
+MLB,Linebacker,Linebackers,Defense
+OLB,Linebacker,Linebackers,Defense
+WLB,Linebacker,Linebackers,Defense
 SAF,Safety,Defensive Backs,Defense
 SP,Safety,Defensive Backs,Defense
