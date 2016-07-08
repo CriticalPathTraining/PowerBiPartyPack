@@ -46,9 +46,9 @@ ILB,Inside Lineback,Linebackers,Defense
 LB,Linebacker,Linebackers,Defense
 LB/DE,Linebacker,Linebackers,Defense
 LB/S,Linebacker,Linebackers,Defense
-MLB,Linebacker,Linebackers,Defense
-OLB,Linebacker,Linebackers,Defense
-WLB,Linebacker,Linebackers,Defense
+MLB,Middle Linebacker,Linebackers,Defense
+OLB,Outside Linebacker,Linebackers,Defense
+WLB,Weakside Linebacker,Linebackers,Defense
 SAF,Safety,Defensive Backs,Defense
 SP,Safety,Defensive Backs,Defense
 ST,Special Teams,Special Teams,Offense
