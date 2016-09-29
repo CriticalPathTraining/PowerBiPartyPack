@@ -53,3 +53,8 @@ SAF,Safety,Defensive Backs,Defense
 SP,Safety,Defensive Backs,Defense
 ST,Special Teams,Special Teams,Offense
 WR-KR,Wide Receiver,Backs and Receivers,Offense
+RT,Offensive Tackle,Offensive Line,Offense
+LT,Offensive Tackle,Offensive Line,Offense
+$LT,Offensive Tackle,Offensive Line,Offense
+LG,Offensive Guard,Offensive Line,Offense
+RG,Offensive Guard,Offensive Line,Offense
