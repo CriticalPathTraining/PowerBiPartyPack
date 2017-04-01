@@ -1,33 +1,33 @@
-Team,Division,Conference,City
-Bills,AFC-East,AFC,"Buffalo, NY"
-Dolphins,AFC-East,AFC,"Miami, FL"
-Jets,AFC-East,AFC,"East Rutherford, NJ"
-Patriots,AFC-East,AFC,"Foxboro, MA"
-Bengals,AFC-North,AFC,"Cincinnati, OH"
-Browns,AFC-North,AFC,"Cleveland, OH"
-Ravens,AFC-North,AFC,"Baltimore, MD"
-Steelers,AFC-North,AFC,"Pittsburg, PA"
-Colts,AFC-South,AFC,"Indianapolis, IN"
-Jaguars,AFC-South,AFC,"Jacksonville, FK"
-Texans,AFC-South,AFC,"Houston, TX"
-Titans,AFC-South,AFC,"Nashville, TN"
-Broncos,AFC-West,AFC,"Denver, CO"
-Chargers,AFC-West,AFC,"San Diego, CA"
-Chiefs,AFC-West,AFC,"Kansas City, MO"
-Raiders,AFC-West,AFC,"Oakland, CA"
-Eagles,NFC-East,NFC,"Philadelphia, PA"
-Giants,NFC-East,NFC,"East Rutherford, NJ"
-Redskins,NFC-East,NFC,"Washington, DC"
-Cowboys,NFC-East,NFC,"Dallas, TX"
-Bears,NFC-North,NFC,"Chicago, IL"
-Lions,NFC-North,NFC,"Detroit, MI"
-Packers,NFC-North,NFC,"Green Bay, WI"
-Vikings,NFC-North,NFC,"Minneapolis , MN"
-Buccaneers,NFC-South,NFC,"Tampa, FL"
-Falcons,NFC-South,NFC,"Atlanta, GA"
-Panthers,NFC-South,NFC,"Charlotte, NC"
-Saints,NFC-South,NFC,"New Orleans, LA"
-49ers,NFC-West,NFC,"San Francisco, CA"
-Cardinals,NFC-West,NFC,"Glendale, AZ"
-Rams,NFC-West,NFC,"St. Louis, MO"
-Seahawks,NFC-West,NFC,"Seattle, WA"
+Team,Division,Conference,City,RosterUrl
+Bills,AFC-East,AFC,"Buffalo, NY",http://www.buffalobills.com/team/roster.html
+Dolphins,AFC-East,AFC,"Miami, FL",http://www.miamidolphins.com/team/player-roster.html
+Jets,AFC-East,AFC,"East Rutherford, NJ",http://www.newyorkjets.com/team/roster.html
+Patriots,AFC-East,AFC,"Foxboro, MA",http://www.patriots.com/team/roster
+Bengals,AFC-North,AFC,"Cincinnati, OH",http://www.bengals.com/team/roster.html
+Browns,AFC-North,AFC,"Cleveland, OH",http://www.clevelandbrowns.com/team/roster.html
+Ravens,AFC-North,AFC,"Baltimore, MD",http://www.baltimoreravens.com/team/roster.html
+Steelers,AFC-North,AFC,"Pittsburg, PA",http://www.steelers.com/team/roster.html
+Colts,AFC-South,AFC,"Indianapolis, IN",http://www.colts.com/team/roster.html
+Jaguars,AFC-South,AFC,"Jacksonville, FK",http://www.jaguars.com/team/roster.html
+Texans,AFC-South,AFC,"Houston, TX",http://www.houstontexans.com/team/roster.html
+Titans,AFC-South,AFC,"Nashville, TN",http://www.titansonline.com/team/roster.html
+Broncos,AFC-West,AFC,"Denver, CO",http://www.denverbroncos.com/team/roster.html
+Chargers,AFC-West,AFC,"San Diego, CA",http://www.chargers.com/team/roster
+Chiefs,AFC-West,AFC,"Kansas City, MO",http://www.chiefs.com/team/roster.html
+Raiders,AFC-West,AFC,"Oakland, CA",http://www.raiders.com/team/roster.html
+Eagles,NFC-East,NFC,"Philadelphia, PA",http://www.philadelphiaeagles.com/team/roster.html
+Giants,NFC-East,NFC,"East Rutherford, NJ",http://www.giants.com/team/roster.html
+Redskins,NFC-East,NFC,"Washington, DC",http://www.redskins.com/team/roster.html
+Cowboys,NFC-East,NFC,"Dallas, TX",http://www.dallascowboys.com/team/roster
+Bears,NFC-North,NFC,"Chicago, IL",http://www.chicagobears.com/team/roster.html
+Lions,NFC-North,NFC,"Detroit, MI",http://www.detroitlions.com/team/roster.html
+Packers,NFC-North,NFC,"Green Bay, WI",http://www.packers.com/team/players.html
+Vikings,NFC-North,NFC,"Minneapolis , MN",http://www.vikings.com/team/roster.html
+Buccaneers,NFC-South,NFC,"Tampa, FL",http://www.buccaneers.com/team-and-stats/roster.html
+Falcons,NFC-South,NFC,"Atlanta, GA",http://www.atlantafalcons.com/team/player-roster.html
+Panthers,NFC-South,NFC,"Charlotte, NC",http://www.panthers.com/team/roster.html
+Saints,NFC-South,NFC,"New Orleans, LA",http://www.neworleanssaints.com/team/roster.html
+49ers,NFC-West,NFC,"San Francisco, CA",http://www.49ers.com/team/roster.html
+Cardinals,NFC-West,NFC,"Glendale, AZ",http://www.azcardinals.com/roster/player-roster.html
+Rams,NFC-West,NFC,"St. Louis, MO",http://www.therams.com/team/roster.html
+Seahawks,NFC-West,NFC,"Seattle, WA",http://www.seahawks.com/team/roster
