@@ -1,4 +1,4 @@
-+library(XML)
+library(XML)
 library(dplyr)
 
 getNFLTeam <- function(name, url, conference, division, city){
